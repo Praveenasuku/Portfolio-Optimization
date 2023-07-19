@@ -2,8 +2,8 @@
 Overview
 
 This repository contains code for portfolio optimization using the Efficient Frontier, Principal Component Analysis (PCA), and K-Means clustering. The main objective of this project is to construct an optimal investment portfolio by leveraging these techniques to maximize returns while minimizing risk.
-Table of Contents
 
+Table of Contents
     Overview
     Features
     Installation
