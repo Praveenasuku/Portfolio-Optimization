@@ -7,7 +7,6 @@ Table of Contents
 
     Overview
     Features
-    Installation
     Usage
     Data
     Efficient Frontier
