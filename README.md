@@ -39,19 +39,16 @@ Usage
 
     Run the Efficient Frontier code to optimize the portfolio:
 
-bash
 
 python efficient_frontier.py
 
     Implement PCA to reduce the dimensionality of asset returns:
 
-bash
 
 python pca_analysis.py
 
     Utilize K-Means clustering to group assets into clusters:
 
-bash
 
 python k_means_clustering.py
 
